@@ -1,2 +1,5 @@
 .idea
 *.config
+
+# Personal notbooks
+notebooks_perso
